@@ -1,7 +1,7 @@
 # intensity_analysis
 intensity_analysis using NLP and DL
 
-**Overview**
+****Overview****
 This repository contains code for performing intensity analysis using Natural Language Processing (NLP) and Deep Learning techniques. Intensity analysis is the process of determining the intensity or strength of sentiment expressed in textual data.The primary goal of this project is to provide a framework for analyzing the intensity of sentiment in text data, which can be useful in various applications such as sentiment analysis, opinion mining, and social media monitoring.
 
 **Features**
