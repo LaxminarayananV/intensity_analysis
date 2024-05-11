@@ -27,6 +27,8 @@ Inference:
 Use the trained model to predict the intensity of sentiment in new text data.
 Analyze the results and interpret the intensity of sentiment expressed in the text.
 
+**How to Access**
+
 **Contributing**
 Contributions to this project are welcome! If you have suggestions for improvements or would like to add new features, please create a pull request or open an issue on GitHub.
 
