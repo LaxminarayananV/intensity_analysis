@@ -28,6 +28,13 @@ Use the trained model to predict the intensity of sentiment in new text data.
 Analyze the results and interpret the intensity of sentiment expressed in the text.
 
 **How to Access**
+1.Open Google Colab: Visit Google Colab in your web browser.
+2.Import the Notebook: Click on the "File" menu, then select "Upload notebook". Upload the text_intensity_classifier.ipynb file from the repository.
+3.Install Dependencies: Run the following code cell to install the required dependencies:
+!pip install -r requirements.txt
+4.Run the Classifier: Execute the cells in the notebook sequentially to load the dataset, train the models, and classify text based on emotion intensity.
+5.Inputting Text: After running the classifier, follow the prompts to input a sentence. Type in the text you want to classify based on emotion intensity and press Enter.
+6.Viewing Results: The classifier will provide predictions for emotion intensity using different machine learning models. You will see the predicted intensity level (angry, happy, or sad) for each model.
 
 **Contributing**
 Contributions to this project are welcome! If you have suggestions for improvements or would like to add new features, please create a pull request or open an issue on GitHub.
